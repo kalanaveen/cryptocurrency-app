@@ -1,3 +1,39 @@
+Build a cryptocurrency application with technologies like reactjs,redux,chart js,ant design,rapid api.In this we have maintain good folder structure and sees advance react js.
+All data fetch from rapid api ,used multiple apis.Used ANT design for super responsiveness and beautifull design.Also used chart js for showing data in chart.
+
+created home page
+![image](https://user-images.githubusercontent.com/34640475/134135324-f007151f-245b-413c-87a8-00deb7be7cc0.png)
+
+cryptocurrency page
+![image](https://user-images.githubusercontent.com/34640475/134135409-eaa7c083-e9c8-457a-8426-5ab4f327b7bd.png)
+
+news page
+![image](https://user-images.githubusercontent.com/34640475/134135469-1f47378c-effc-4c73-a036-26c424f13d44.png)
+
+exchanges page
+![image](https://user-images.githubusercontent.com/34640475/134135522-f54a9037-ac36-4f81-a5f2-f1d62fb94dfe.png)
+
+cryptodetails page
+![image](https://user-images.githubusercontent.com/34640475/134135595-5f249e96-a1d0-44c9-81fd-f8c45b179eb7.png)
+
+Key Features
+    
+    Get top cryptocurrency details.
+    Sees data with help of chartjs.
+    Get news about cryptocurrency.
+    Rapid api used for all data.
+    Fixed navbar.
+    Super responsive.
+    
+Key Technologies
+
+    React.js
+    Redux Toolkit
+    Ant Design
+    Chart js
+    Rapid APi
+    
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
